@@ -1,0 +1,38 @@
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(93, 133, 243);
+  }
+  
+  .navbar li {
+    float: left;
+  }
+  
+  .navbar li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .navbar li a:hover {
+    background-color: rgb(212, 241, 248);
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(123, 202, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  .foto{
+    background-color: rgba(25, 40, 248, 0.205);
+  }
+  
+  
