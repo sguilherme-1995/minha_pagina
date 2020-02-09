@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(93, 133, 243);
+    background-color: rgb(112, 148, 245);
   }
   
   .navbar li {
@@ -39,5 +39,29 @@
     border-radius: 5px;
     margin: 130px;
   }
-  
-  
+  .body{
+    background-color:rgb(132, 153, 248);
+  }
+  .listavivos{
+    display: inline-block; 
+    width:50%;
+    float:left;
+  }
+  .listamortos{
+    display: inline-block;
+    width:50%;
+    float:right;
+  }
+  .listamortostxt{
+    text-align:rigth;
+  }
+  .listavivostxt{
+    text-align:left;
+  }
+  .textoprincipal{
+    text-align:justify;
+  }
+  .sobremim{
+    color:white; text-align:center
+  }
+
