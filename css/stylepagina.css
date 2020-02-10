@@ -33,6 +33,7 @@
   }
   .foto{
     background-color: rgba(25, 40, 248, 0.205);
+    
   }
   .borda{
     border: 2px solid rgba(0, 89, 255, 0.226);
@@ -60,6 +61,8 @@
   }
   .textoprincipal{
     text-align:justify;
+    margin-right: 155px;
+    margin-left: 155px;
   }
   .sobremim{
     color:white; text-align:center
