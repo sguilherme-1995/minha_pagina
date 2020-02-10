@@ -4,6 +4,8 @@
     padding: 0;
     overflow: hidden;
     background-color: rgb(112, 148, 245);
+    margin-right: 155px;
+    margin-left: 155px;
   }
   
   .navbar li {
@@ -16,6 +18,9 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    margin-right: 82px;
+    margin-left: 85px;
+    
   }
   
   /* Change the link color to #111 (black) on hover */
@@ -33,6 +38,8 @@
   }
   .foto{
     background-color: rgba(25, 40, 248, 0.205);
+    margin-right: 155px;
+    margin-left: 155px;
     
   }
   .borda{
